@@ -3,7 +3,7 @@
 
 ChinaChess is a Chinese chess project developed based on Qt.
 
-It can realize the battle of P2P, the battle between P2M, and the battle on the network.
+It can realize the battle between P2P, the battle between P2M, and the battle on the network.
 
 ## Install
 ```shell
